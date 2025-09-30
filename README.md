@@ -245,5 +245,5 @@ Issues and pull requests are welcome. Please open an issue describing the change
 ---
 
 ## License
-**TBD.** If you intend to open-source, consider adding a `LICENSE` file (e.g., MIT, Apache-2.0). If not, mark the repository as proprietary.
+**TBD.** 
 
