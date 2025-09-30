@@ -1,0 +1,5 @@
+Source,Target,IntervalNumber,StartTime,EndTime,Duration,StartOrbit,EndOrbit
+SAT 1,OGS 1,1,0,6000,6000,2,2
+SAT 1,OGS 1,2,6100,55560,3900,10,10
+SAT 1,OGS 2,1,0,6240,6240,2,2
+SAT 1,OGS 2,2,6500,55380,6000,10,10
