@@ -121,9 +121,9 @@ pip install --upgrade pip
 
 # (If you plan to use QuNetSim locally)
 # Either via SSH (requires GitHub SSH keys):
-# git clone git@github.com:tqsd/QuNetSim.git
+git clone git@github.com:tqsd/QuNetSim.git
 # Or via HTTPS:
-# git clone https://github.com/tqsd/QuNetSim.git
+git clone https://github.com/tqsd/QuNetSim.git
 
 # Install QuNetSim requirements
 pip install -r ./QuNetSim/requirements.txt
